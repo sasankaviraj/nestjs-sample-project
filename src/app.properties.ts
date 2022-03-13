@@ -1,0 +1,1 @@
+export const MONGO_DB_CONNECTION = 'mongodb+srv://root:chootipoos@cluster0.itg7b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
